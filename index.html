@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Tienda Gamer</title>
+</head>
+<body>
+    <header>
+        <h1>Tienda Gamer</h1>
+        <button id="show-cart" class="btn">Ver Carrito</button>
+    </header>
+    <main>
+        <section class="products">
+            <div class="product" data-name="Teclado Mecánico RGB" data-price="50.00">
+                <img src="placeholder.jpg" alt="Producto 1">
+                <h2>Teclado Mecánico RGB</h2>
+                <p>$50.00</p>
+                <button class="btn add-to-cart">Comprar</button>
+            </div>
+            <div class="product" data-name="Mouse Gamer" data-price="30.00">
+                <img src="placeholder.jpg" alt="Producto 2">
+                <h2>Mouse Gamer</h2>
+                <p>$30.00</p>
+                <button class="btn add-to-cart">Comprar</button>
+            </div>
+            <div class="product" data-name="Auriculares Gamer" data-price="70.00">
+                <img src="placeholder.jpg" alt="Producto 3">
+                <h2>Auriculares Gamer</h2>
+                <p>$70.00</p>
+                <button class="btn add-to-cart">Comprar</button>
+            </div>
+        </section>
+    </main>
+    <aside id="cart" style="display: none;">
+        <h2>Carrito de Compras</h2>
+        <ul id="cart-items"></ul>
+        <p>Total: $<span id="cart-total">0.00</span></p>
+        <button id="checkout" class="btn">Pagar</button>
+    </aside>
+    <footer>
+        <p>&copy; 2025 Tienda Gamer. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
+<script src="script.js"></script>
