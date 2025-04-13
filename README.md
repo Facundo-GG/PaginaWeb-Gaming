@@ -1,4 +1,4 @@
-git# Software para desarrolladores FullStack
+# Software para desarrolladores FullStack
 
 ## Gestión de Proyecto en GitHub
 
