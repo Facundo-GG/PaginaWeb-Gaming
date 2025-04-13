@@ -10,6 +10,6 @@ Git y GitHub son herramientas esenciales para el desarrollo de software que perm
 
 | ![Foto 1](https://link-de-la-foto-1.com) | ![Foto 2](https://link-de-la-foto-2.com) |
 |:--:|:--:|
-| **Facundo Gonzales**<br>Frontend | **Nombre Compañero**<br>Backend |
+| **Facundo Gonzales**<br>Frontend | **Nelson Palacios**<br>Backend | **Ashly Chahuayo**<br>Backend |
 
 ---
