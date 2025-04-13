@@ -8,7 +8,7 @@ Git y GitHub son herramientas esenciales para el desarrollo de software que perm
 
 ### 👨‍💻 Equipo de Desarrollo
 
-| ![Foto 1](Facundo.jfif) | ![Foto 2](Ashly.jfif) |![Foto 3](https://link-de-la-foto-3.com) |
+| <img src="Facundo.jfif" width="100" /> | <img src="Ashly.jfif" width="100" /> | <img src="https://link-de-la-foto-3.com" width="100" /> |
 |:--:|:--:|:--:|
 | **Facundo Gonzales**<br>Frontend | **Nelson Palacios**<br>Backend | **Ashly Chahuayo**<br>Backend |
 
